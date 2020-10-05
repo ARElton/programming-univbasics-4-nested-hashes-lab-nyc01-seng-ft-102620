@@ -86,6 +86,7 @@ modified_programmer_hash = programmer_hash << {
     :known_for => "Ruby",
     :languages => ["LISP", "C"]
   }
+  modified_programmer_hash
 }
 end
 
